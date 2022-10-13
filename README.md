@@ -1,6 +1,5 @@
-# js-todo
+## Javascript TODO web app built with HTML, CSS, and Javascript.
 
-PAGE
 
 https://kjwilliamson.github.io/js-todo/
 
